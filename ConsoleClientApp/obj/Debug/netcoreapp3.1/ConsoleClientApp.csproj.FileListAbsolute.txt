@@ -1,0 +1,12 @@
+C:\GitHubProjects\ClientWebAppp\ServerHost\ConsoleClientApp\bin\Debug\netcoreapp3.1\ConsoleClientApp.exe
+C:\GitHubProjects\ClientWebAppp\ServerHost\ConsoleClientApp\bin\Debug\netcoreapp3.1\ConsoleClientApp.deps.json
+C:\GitHubProjects\ClientWebAppp\ServerHost\ConsoleClientApp\bin\Debug\netcoreapp3.1\ConsoleClientApp.runtimeconfig.json
+C:\GitHubProjects\ClientWebAppp\ServerHost\ConsoleClientApp\bin\Debug\netcoreapp3.1\ConsoleClientApp.runtimeconfig.dev.json
+C:\GitHubProjects\ClientWebAppp\ServerHost\ConsoleClientApp\bin\Debug\netcoreapp3.1\ConsoleClientApp.dll
+C:\GitHubProjects\ClientWebAppp\ServerHost\ConsoleClientApp\bin\Debug\netcoreapp3.1\ConsoleClientApp.pdb
+C:\GitHubProjects\ClientWebAppp\ServerHost\ConsoleClientApp\obj\Debug\netcoreapp3.1\ConsoleClientApp.AssemblyInfoInputs.cache
+C:\GitHubProjects\ClientWebAppp\ServerHost\ConsoleClientApp\obj\Debug\netcoreapp3.1\ConsoleClientApp.AssemblyInfo.cs
+C:\GitHubProjects\ClientWebAppp\ServerHost\ConsoleClientApp\obj\Debug\netcoreapp3.1\ConsoleClientApp.csproj.CoreCompileInputs.cache
+C:\GitHubProjects\ClientWebAppp\ServerHost\ConsoleClientApp\obj\Debug\netcoreapp3.1\ConsoleClientApp.dll
+C:\GitHubProjects\ClientWebAppp\ServerHost\ConsoleClientApp\obj\Debug\netcoreapp3.1\ConsoleClientApp.pdb
+C:\GitHubProjects\ClientWebAppp\ServerHost\ConsoleClientApp\obj\Debug\netcoreapp3.1\ConsoleClientApp.genruntimeconfig.cache

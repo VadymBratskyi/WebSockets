@@ -1,0 +1,12 @@
+C:\GitHubProjects\ClientWebAppp\ServerHost\ServerHost\bin\Debug\netcoreapp3.1\ServerHost.exe
+C:\GitHubProjects\ClientWebAppp\ServerHost\ServerHost\bin\Debug\netcoreapp3.1\ServerHost.deps.json
+C:\GitHubProjects\ClientWebAppp\ServerHost\ServerHost\bin\Debug\netcoreapp3.1\ServerHost.runtimeconfig.json
+C:\GitHubProjects\ClientWebAppp\ServerHost\ServerHost\bin\Debug\netcoreapp3.1\ServerHost.runtimeconfig.dev.json
+C:\GitHubProjects\ClientWebAppp\ServerHost\ServerHost\bin\Debug\netcoreapp3.1\ServerHost.dll
+C:\GitHubProjects\ClientWebAppp\ServerHost\ServerHost\bin\Debug\netcoreapp3.1\ServerHost.pdb
+C:\GitHubProjects\ClientWebAppp\ServerHost\ServerHost\obj\Debug\netcoreapp3.1\ServerHost.AssemblyInfoInputs.cache
+C:\GitHubProjects\ClientWebAppp\ServerHost\ServerHost\obj\Debug\netcoreapp3.1\ServerHost.AssemblyInfo.cs
+C:\GitHubProjects\ClientWebAppp\ServerHost\ServerHost\obj\Debug\netcoreapp3.1\ServerHost.csproj.CoreCompileInputs.cache
+C:\GitHubProjects\ClientWebAppp\ServerHost\ServerHost\obj\Debug\netcoreapp3.1\ServerHost.dll
+C:\GitHubProjects\ClientWebAppp\ServerHost\ServerHost\obj\Debug\netcoreapp3.1\ServerHost.pdb
+C:\GitHubProjects\ClientWebAppp\ServerHost\ServerHost\obj\Debug\netcoreapp3.1\ServerHost.genruntimeconfig.cache
